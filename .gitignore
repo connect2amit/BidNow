@@ -1,0 +1,58 @@
+# =========================
+# .NET
+# =========================
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+*.vspscc
+*.vssscc
+
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# =========================
+# Angular / Node
+# =========================
+node_modules/
+dist/
+build/
+.tmp/
+.angular/
+
+# Environment files
+.env
+.env.*
+
+# =========================
+# VS Code
+# =========================
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# =========================
+# Coverage / Testing
+# =========================
+coverage/
+
+# =========================
+# Misc
+# =========================
+*.cache
+*.pid
+*.seed

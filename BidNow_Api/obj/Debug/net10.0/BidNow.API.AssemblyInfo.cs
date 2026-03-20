@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BidNow.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e413a77389a5a0144c7451f3745342657673bbfb")]
 [assembly: System.Reflection.AssemblyProductAttribute("BidNow.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BidNow.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
